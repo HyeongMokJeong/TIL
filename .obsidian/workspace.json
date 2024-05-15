@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "project/모듈 간 의존성 구상.md",
+                "file": "note/개발 쪽에서 궁금한 사항.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "project/모듈 간 의존성 구상.md",
+                "file": "note/개발 쪽에서 궁금한 사항.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "project/모듈 간 의존성 구상.md",
+                "file": "note/개발 쪽에서 궁금한 사항.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/모듈 간 의존성 구상.md"
+                "file": "note/개발 쪽에서 궁금한 사항.md"
               }
             }
           }
@@ -162,8 +162,8 @@
   },
   "active": "41cc5f95e9b51208",
   "lastOpenFiles": [
-    "note/개발 쪽에서 궁금한 사항.md",
     "project/모듈 간 의존성 구상.md",
+    "note/개발 쪽에서 궁금한 사항.md",
     "project/Pasted image 20240515163648.png",
     "project/Drawing 2024-05-15 16.25.49.excalidraw.md",
     "project",
