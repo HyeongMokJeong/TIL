@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6742134be218d458",
+        "id": "b6bbe37f184fbf5e",
         "type": "tabs",
         "children": [
           {
-            "id": "7e8c6b4cf628391e",
+            "id": "8693a60b9253886e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "coding-test/구현/2개 이하로 다른 비트.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding-test/구현/2개 이하로 다른 비트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding-test/구현/2개 이하로 다른 비트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "coding-test/구현/2개 이하로 다른 비트.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,11 +139,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7e8c6b4cf628391e",
+  "active": "8693a60b9253886e",
   "lastOpenFiles": [
+    "coding-test/구현/2개 이하로 다른 비트.md",
     "coding-test/구현",
     "note/Github Token.md",
-    "coding-test/구현/2개 이하로 다른 비트.md",
     "coding-test",
     "note/무제 파일.canvas",
     "Excalidraw/무제 파일.md",
