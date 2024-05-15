@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/Github Token.md",
+                "file": "coding-test/구현/2개 이하로 다른 비트.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/Github Token.md",
+                "file": "coding-test/구현/2개 이하로 다른 비트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/Github Token.md",
+                "file": "coding-test/구현/2개 이하로 다른 비트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/Github Token.md"
+                "file": "coding-test/구현/2개 이하로 다른 비트.md"
               }
             }
           }
@@ -149,8 +149,11 @@
   },
   "active": "7e8c6b4cf628391e",
   "lastOpenFiles": [
-    "note/무제 파일.canvas",
+    "coding-test/구현",
     "note/Github Token.md",
+    "coding-test/구현/2개 이하로 다른 비트.md",
+    "coding-test",
+    "note/무제 파일.canvas",
     "Excalidraw/무제 파일.md",
     "note",
     "무제 파일.canvas",
