@@ -30,19 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7f2bb2341d4b97b5",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "project/Drawing 2024-05-15 16.25.49.excalidraw.md"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "project/Drawing 2024-05-15 16.25.49.excalidraw.md",
+                "file": "project/모듈 간 의존성 구상.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "project/Drawing 2024-05-15 16.25.49.excalidraw.md",
+                "file": "project/모듈 간 의존성 구상.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/Drawing 2024-05-15 16.25.49.excalidraw.md"
+                "file": "project/모듈 간 의존성 구상.md"
               }
             }
           }
@@ -170,11 +160,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7f2bb2341d4b97b5",
+  "active": "41cc5f95e9b51208",
   "lastOpenFiles": [
-    "project/모듈 간 의존성 구상.md",
-    "project/Drawing 2024-05-15 16.25.49.excalidraw.md",
     "note/개발 쪽에서 궁금한 사항.md",
+    "project/모듈 간 의존성 구상.md",
+    "project/Pasted image 20240515163648.png",
+    "project/Drawing 2024-05-15 16.25.49.excalidraw.md",
     "project",
     "coding-test/구현/2개 이하로 다른 비트.md",
     "coding-test/구현",
