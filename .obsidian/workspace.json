@@ -8,26 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8693a60b9253886e",
+            "id": "41cc5f95e9b51208",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/개발 쪽에서 궁금한 사항.md",
+                "file": "project/모듈 간 의존성 구상.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "41cc5f95e9b51208",
+            "id": "bba4974162d375f7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "note/개발 쪽에서 궁금한 사항.md",
-                "mode": "source",
-                "source": false
+                "file": "project/Drawing 2024-05-15 22.24.08.excalidraw.md"
               }
             }
           }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/개발 쪽에서 궁금한 사항.md",
+                "file": "project/Drawing 2024-05-15 22.24.08.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/개발 쪽에서 궁금한 사항.md",
+                "file": "project/Drawing 2024-05-15 22.24.08.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/개발 쪽에서 궁금한 사항.md"
+                "file": "project/Drawing 2024-05-15 22.24.08.excalidraw.md"
               }
             }
           }
@@ -160,11 +158,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "41cc5f95e9b51208",
+  "active": "bba4974162d375f7",
   "lastOpenFiles": [
     "project/모듈 간 의존성 구상.md",
-    "note/개발 쪽에서 궁금한 사항.md",
+    "project/Drawing 2024-05-15 22.24.08.excalidraw.md",
     "project/Pasted image 20240515163648.png",
+    "note/개발 쪽에서 궁금한 사항.md",
     "project/Drawing 2024-05-15 16.25.49.excalidraw.md",
     "project",
     "coding-test/구현/2개 이하로 다른 비트.md",
