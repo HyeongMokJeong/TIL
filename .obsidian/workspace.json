@@ -11,8 +11,12 @@
             "id": "23932e654f3557da",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "coding-test/재귀/이진 변환 반복하기.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "coding-test/재귀/이진 변환 반복하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "coding-test/재귀/이진 변환 반복하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "coding-test/재귀/이진 변환 반복하기.md"
+              }
             }
           }
         ]
@@ -141,13 +149,16 @@
   },
   "active": "23932e654f3557da",
   "lastOpenFiles": [
+    "coding-test/template.md",
+    "coding-test/재귀/이진 변환 반복하기.md",
+    "coding-test/구현/2개 이하로 다른 비트.md",
+    "coding-test/재귀",
     "project/모듈 간 의존성 구상.md",
     "project/Drawing 2024-05-15 22.24.08.excalidraw.md",
     "project/Pasted image 20240515163648.png",
     "note/개발 쪽에서 궁금한 사항.md",
     "project/Drawing 2024-05-15 16.25.49.excalidraw.md",
     "project",
-    "coding-test/구현/2개 이하로 다른 비트.md",
     "coding-test/구현",
     "note/Github Token.md",
     "coding-test",
