@@ -35,3 +35,9 @@
 		- 하나의 노드가 데이터와 포인터를 모두 가져야 하므로 추가적인 메모리 공간이 필요하다.
 
 - 링크드 리스트로 구현할 수 있는 자료구조는?
+	- Stack
+	- Queue : JAVA에서 Linked List는 Queue의 구현체
+	- Deque : 양방향 Linked List
+	- Graph
+	- Hash Table : 동일한 해시를 갖는 여러 키를 저장할 때 사용
+	- Tree
