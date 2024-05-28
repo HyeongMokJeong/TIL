@@ -1,0 +1,12 @@
+- DDL : Data Definition Language
+	- 데이터베이스를 정의하는 언어
+	- create, alter, drop, truncate
+- DML : Data Manipulation Language
+	- 데이터를 조작하는 언어
+	- select, insert, update, delete
+- DCL : Data Control Language
+	- 데이터베이스의 권한을 조작하는 언어
+	- grant, revoke
+- TCL : Transaction Control Language
+	- DCL에서 트랜잭션을 컨트롤하는 명령어
+	- commit, rollback
