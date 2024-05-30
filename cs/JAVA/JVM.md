@@ -17,10 +17,10 @@ Java는 자바 가상 머신(JVM) 덕분에 OS 독립적인 특징을 가진다.
 		3. 가비지 콜렉터
 
 - Runtime Data area
-	- 모든 스레드 공유
-		1. Method 영역
+	- 모든 스레드 공유 - GC 대상
+		1. Method 영역 : static 변수 등
 		2. Heap 영역
-		3. Stack 영역
-		4. PC Register
 	- 스레드 별 사용
-		1. Native Method Stack 영역
+		1. Stack 영역
+		2. PC Register
+		3. Native Method Stack 영역
