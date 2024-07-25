@@ -7,4 +7,5 @@
 - 하나의 Aggregate에 하나의 Repository
 1. 실질적으로 직접 접근해야 하는 AGGREGATE의 루트에 대해서만 REPOSITORY를 제공하고, 
    모든 객체 저장과 접근은 REPOSITORY에 위임해서 클라이언트가 모델에 집중하게 하라.
-2.
+2. 하나의 Aggregate에 여러 Repository가 존재한다면?
+   -> 정말 같은 Aggregate인지
